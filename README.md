@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @blueglu
 - 👀 I’m interested in contributing to projects
-- 🌱 I’m currently learning the C programming language.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning the C and C++ programming language.
+- 💞️ I’m looking to collaborate on Open-Source projects such as GIMP and Inkscape.
+- 📫 Contact: anthmdnb@gmail.com
 
 <!---
 blueglu/blueglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
